@@ -1,7 +1,7 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
-A wesbite that offers fitness training services. Change
+A wesbite that offers fitness training services.
 
 ## Built With
 * HTML
