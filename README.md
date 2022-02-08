@@ -8,7 +8,7 @@ A wesbite that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://andrewyk99.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Andrew Kim
