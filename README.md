@@ -14,3 +14,5 @@ https://andrewyk99.github.io/run-buddy/
 Made with ❤️ by Andrew Kim
 
 ### ©️2019 Run Buddy, Inc
+
+![screenshot of website](./assets/images/screenshot.png?raw=true)
