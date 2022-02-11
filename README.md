@@ -15,4 +15,4 @@ Made with ❤️ by Andrew Kim
 
 ### ©️2019 Run Buddy, Inc
 
-![screenshot of website](./assets/images/screenshot.png?raw=true)
+![screenshot of website](./assets/images/screenshot.png?raw=true "Screenshot")
